@@ -13,7 +13,7 @@ Lista de possíveis públicos-alvo que possam se interessar pela solução, desd
 Uma carteira de custódia própria, com taxas justas e transparentes, que promove um acesso simples e aberto para todos os públicos, feito com tecnologia open-source e com forte conteúdo educacional.
 
 04 Mapa de Arquitetura da Informação
-Como tecnologias novas permitem que esse app exista: Carteiras não custodiais, Troca de PIX <> Crypto, segurança, facilidade, além de um protótipo feito no Figma Make: https://oculus-hurry-90579647.figma.site/ ou v0: https://v0-meubit.vercel.app/
+Como tecnologias novas permitem que esse app exista: Carteiras não custodiais, Troca de PIX <> Crypto, segurança, facilidade, além de um protótipo de código aberto no Figma Make: https://www.figma.com/make/xri1HvxJkQD09xGGZ81G25/MEUBIT?node-id=0-4&t=ME6dMB3CoQ6f7v5q-1
 
 05 Design System
 Exemplos possíveis de tipografia open-source, paleta de cores, etc.
